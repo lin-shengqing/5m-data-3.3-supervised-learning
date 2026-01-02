@@ -14,9 +14,9 @@ This lesson introduces the end-to-end supervised learning workflow- preprocessin
 
 ## Part 1 - Supervised Learning Workflow
 
-We will be using the `notebooks/supervised_learning_2_lesson.ipynb` notebook throughout this lesson.
+We will be using the `notebooks/part_1_supervised_learning_2_lesson.ipynb` notebook throughout this lesson.
 
 > 1. Activate the environement `conda activate ml`.
 > 2. Run `jupyter notebook`.
-> 3. In the notebook, open `notebooks/supervised_learning_2_lesson.ipynb`.
+> 3. In the notebook, open `notebooks/part_1_supervised_learning_2_lesson.ipynb`, follow by `notebooks/part_2_supervised_learning_2_lesson.ipynb`, `notebooks/part_3_supervised_learning_2_lesson.ipynb` and `notebooks/part_4_supervised_learning_2_lesson.ipynb`.
 > 4. Follow on with the lesson in the notebook.
